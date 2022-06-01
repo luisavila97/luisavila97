@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Luis Felipe Avila</h1>
+<h1 align="center">Welcome, I'm Luís Felipe Ávila</h1>
 <h3 align="left">About me:</h3>
 
 - 🎓 Graduated in Game Developer at Feevale
