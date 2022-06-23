@@ -2,7 +2,7 @@
 <h3 align="left">About me:</h3>
 
 - 🎓 Graduated in Game Developer at Feevale
-- 💼 Full-stack Web Developer
+- 💼 Junior Full-stack Web Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
