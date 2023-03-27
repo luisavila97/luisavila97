@@ -1,8 +1,9 @@
 <h1 align="center">Welcome, I'm Luís Felipe Ávila 👽</h1>
 <h3 align="left">About me:</h3>
 
-- 🎓 Graduated in Game Developer at Feevale
 - 💼 Junior Front-End Web Developer
+- 🎓 Postgraduate degree in full stack development
+- 🎓 Graduated in Game Developer at Feevale
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
