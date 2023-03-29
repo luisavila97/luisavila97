@@ -2,7 +2,7 @@
 <h3 align="left">About me:</h3>
 
 - 💼 Junior Fullstack Developer
-- 🎓 Postgraduating in full stack development at PUCRS
+- 🎓 Postgraduating in Fullstack Development at PUCRS
 - 🎓 Graduated in Game Developer at Feevale
 
 <h3 align="left">Connect with me:</h3>
