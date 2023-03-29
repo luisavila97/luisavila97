@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Luís Felipe Ávila 👽</h1>
 <h3 align="left">About me:</h3>
 
-- 💼 Junior Front-End Web Developer
+- 💼 Junior Fullstack Developer
 - 🎓 Postgraduating in full stack development at PUCRS
 - 🎓 Graduated in Game Developer at Feevale
 
